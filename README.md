@@ -7,3 +7,5 @@ py -m streamlit run main.py
 or
 
 streamlit run main.py
+
+rf_model.pkl must be downloaded to run successfully
